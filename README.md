@@ -2,7 +2,6 @@
 
 A web-based football club management system designed to bring club information, administrative operations, and digital services together in one platform.
 
-**Project status:** Under development
 
 ## Overview
 
@@ -41,11 +40,14 @@ These modules describe the areas represented in the project. Their operational s
 - HTML
 - CSS
 - JavaScript
+- Vite
+- React
 
 ### Development Tools
 - Visual Studio Code
 - Git
 - GitHub
+- SQL Database
 
 ## Project Structure
 
